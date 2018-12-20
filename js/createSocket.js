@@ -1,12 +1,11 @@
  //使用方法
 /*
-    import createSocket from "./socket";
+    import createSocket from "./createSocket";
     createSocket({
-      key: `1_${orderNumber}`,
-      host: "http://ws.zx0093.com/",
+      key: `1_`,
+      host: "url",
       onmessage(data) {
-        console.log("push", data);
-        window.location.href = `${__path}/web/showccSuccess.htm?productId=${typeNum}`;
+        console.log(data);
       }
     });
 */
