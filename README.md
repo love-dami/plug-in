@@ -1,4 +1,8 @@
-# plug-in
+## 安装
 
-## vue 文件夹下面是 vue 插件
-# plug-in
+#### npm i -g plug-in
+
+## 说明
+
+#### vue 文件夹下面是 vue 插件
+
